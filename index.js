@@ -18,4 +18,3 @@ function attributesToPhrase(drivers) {
     return `${driver.name} is from ${driver.hometown}`;
   });
 }
-// THESE LABS ARE HOT FUCKING GARBAGE 
